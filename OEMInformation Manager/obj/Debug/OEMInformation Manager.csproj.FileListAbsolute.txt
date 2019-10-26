@@ -1,0 +1,34 @@
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\bin\Debug\Resources\defaultOemLogo.bmp
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\bin\Debug\OEMInformation Manager.exe.config
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\bin\Debug\OEMInformation Manager.exe
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\bin\Debug\OEMInformation Manager.pdb
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Debug\MainWindow.g.cs
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Debug\Views\OemInformationView.g.cs
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Debug\App.g.cs
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Debug\OEMInformation Manager_Content.g.cs
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Debug\OEMInformation Manager_MarkupCompile.cache
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Debug\OEMInformation Manager_MarkupCompile.lref
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Debug\MainWindow.baml
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Debug\Views\OemInformationView.baml
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Debug\OEMInformation Manager.g.resources
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Debug\OEMInformation Manager.exe
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Debug\OEMInformation Manager.pdb
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Debug\OEMInformation Manager.csprojAssemblyReference.cache
+C:\Users\ars\GitKraken\OemInformationManager\OEMInformation Manager\bin\Debug\Resources\defaultOemLogo.bmp
+C:\Users\ars\GitKraken\OemInformationManager\OEMInformation Manager\bin\Debug\OEMInformation Manager.exe.config
+C:\Users\ars\GitKraken\OemInformationManager\OEMInformation Manager\bin\Debug\OEMInformation Manager.exe
+C:\Users\ars\GitKraken\OemInformationManager\OEMInformation Manager\bin\Debug\OEMInformation Manager.pdb
+C:\Users\ars\GitKraken\OemInformationManager\OEMInformation Manager\obj\Debug\OEMInformation Manager.csprojAssemblyReference.cache
+C:\Users\ars\GitKraken\OemInformationManager\OEMInformation Manager\obj\Debug\MainWindow.g.cs
+C:\Users\ars\GitKraken\OemInformationManager\OEMInformation Manager\obj\Debug\Views\OemInformationView.g.cs
+C:\Users\ars\GitKraken\OemInformationManager\OEMInformation Manager\obj\Debug\App.g.cs
+C:\Users\ars\GitKraken\OemInformationManager\OEMInformation Manager\obj\Debug\OEMInformation Manager_Content.g.cs
+C:\Users\ars\GitKraken\OemInformationManager\OEMInformation Manager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ars\GitKraken\OemInformationManager\OEMInformation Manager\obj\Debug\OEMInformation Manager_MarkupCompile.cache
+C:\Users\ars\GitKraken\OemInformationManager\OEMInformation Manager\obj\Debug\OEMInformation Manager_MarkupCompile.lref
+C:\Users\ars\GitKraken\OemInformationManager\OEMInformation Manager\obj\Debug\MainWindow.baml
+C:\Users\ars\GitKraken\OemInformationManager\OEMInformation Manager\obj\Debug\Views\OemInformationView.baml
+C:\Users\ars\GitKraken\OemInformationManager\OEMInformation Manager\obj\Debug\OEMInformation Manager.g.resources
+C:\Users\ars\GitKraken\OemInformationManager\OEMInformation Manager\obj\Debug\OEMInformation Manager.exe
+C:\Users\ars\GitKraken\OemInformationManager\OEMInformation Manager\obj\Debug\OEMInformation Manager.pdb

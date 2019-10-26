@@ -1,0 +1,18 @@
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\bin\Release\Resources\defaultOemLogo.bmp
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\bin\Release\OEMInformation Manager.exe.config
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\bin\Release\OEMInformation Manager.exe
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\bin\Release\OEMInformation Manager.pdb
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Release\MainWindow.g.cs
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Release\Views\OemInformationView.g.cs
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Release\App.g.cs
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Release\OEMInformation Manager_Content.g.cs
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Release\OEMInformation Manager_MarkupCompile.cache
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Release\OEMInformation Manager_MarkupCompile.lref
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Release\MainWindow.baml
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Release\Views\OemInformationView.baml
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Release\OEMInformation Manager.g.resources
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Release\OEMInformation_Manager.Properties.Resources.resources
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Release\OEMInformation Manager.csproj.GenerateResource.cache
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Release\OEMInformation Manager.exe
+C:\Users\ars\VisualStudioProjects\OEMInformation Manager\OEMInformation Manager\obj\Release\OEMInformation Manager.pdb
